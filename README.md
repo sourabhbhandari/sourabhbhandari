@@ -1,4 +1,4 @@
-## Helllo, I'm Sourabh Bhandari. 👋
+## Hello, I'm Sourabh Bhandari. 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhbhandari&label=Views&color=blue&style=plastic" alt="Sourabh!" /> </p>
 
@@ -39,9 +39,17 @@
 <a href="https://github.com/sourabhbhandari">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhbhandari&show_icons=true&theme=light&line_height=27" alt="Sourabh's github stats"/>
 </a>
-<a href="https://github.com/sourabhbhandari/React-ToDo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=React-ToDo&theme=light" />
+<a href="https://github.com/sourabhbhandari/django-ecom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=django-ecom&theme=light" />
 
+</a>
+<a href="https://github.com/sourabhbhandari/to-do-app-with-auth">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=to-do-app-with-auth&theme=light" />
+</a>
+</a>
+<a href="https://github.com/sourabhbhandari/BuildingAPIwithFlask">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=BuildingAPIwithFlask&theme=light" />
+</a>
 </a>
 <a href="https://github.com/sourabhbhandari/terraform_task">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=terraform_task&theme=light" />
@@ -49,6 +57,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Made with ❤️ and Code </>
 
 </div>
