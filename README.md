@@ -1,62 +1,99 @@
-## Hello, I'm Sourabh Bhandari. 👋
+## Hey, I'm Sourabh Bhandari 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhbhandari&label=Views&color=blue&style=plastic" alt="Sourabh!" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sourabhbhandari&label=Profile%20Views&color=0e75b6&style=flat" alt="Sourabh" /> 
+</p>
 
-<a href="https://twitter.com/mr_bhandari16">
-  <img align="left" alt="Sourabh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sb5/">
-  <img align="left" alt="Sourabh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/sourabhbhandari">
-  <img align="left" alt="Sourabh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/mr_bhandari16/">
-  <img align="left" alt="Sourabh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
-<br/>
+---
 
+### 🚀 About Me  
+I’m a **Platform & DevOps Engineer** focused on building scalable, reliable, and secure infrastructure for high-performance systems. I work at the intersection of **distributed systems, observability, and developer platforms**, solving real-world scale challenges.
 
-- 🔭 I’m currently working on Django/Flask Projects.
-- 🌱 I’m currently learning more about DevSecOps.
-- 👯 I’m looking to collaborate on Competitive Programming, Bug Bounty and Secure Coding.
-- 💬 Ask me about Security or any tech-related stuff.
-- ⚡ Fun fact: I am Geek and Listen to Music all the time.
+---
 
-**Languages and Tools:**  
+### 🛠️ What I Do Daily  
+- ⚙️ Design and operate **large-scale cloud-native infrastructure**
+- 🚀 Build and optimize **CI/CD pipelines & developer platforms**
+- 📊 Work deeply with **observability stacks (Loki, Grafana, Prometheus, Mimir)**
+- 🧩 Solve **performance bottlenecks at scale** (logs, metrics, ingestion, querying)
+- 🐳 Manage containerized workloads using **Docker & Kubernetes**
+- 🔐 Integrate **DevSecOps practices** into pipelines and platforms
+- ☁️ Architect cost-efficient and scalable systems on **AWS & distributed environments**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>    
+---
 
-<a href="https://github.com/sourabhbhandari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbhandari&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/sourabhbhandari">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhbhandari&show_icons=true&theme=light&line_height=27" alt="Sourabh's github stats"/>
-</a>
-<a href="https://github.com/sourabhbhandari/django-ecom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=django-ecom&theme=light" />
+### 💡 Core Expertise  
+- Platform Engineering & Internal Developer Platforms  
+- Observability & Monitoring at Scale  
+- Infrastructure as Code (Terraform)  
+- CI/CD & Build Systems Optimization  
+- Distributed Systems & Performance Tuning  
+- Cloud Architecture (AWS)  
+- Containerization & Orchestration  
 
-</a>
-<a href="https://github.com/sourabhbhandari/to-do-app-with-auth">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=to-do-app-with-auth&theme=light" />
-</a>
-</a>
-<a href="https://github.com/sourabhbhandari/BuildingAPIwithFlask">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=BuildingAPIwithFlask&theme=light" />
-</a>
-</a>
-<a href="https://github.com/sourabhbhandari/terraform_task">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbhandari&repo=terraform_task&theme=light" />
-</a>
+---
+
+### 🧰 Tech Stack  
+<p>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/grafana/grafana.png"/>
+</p>
+
+---
+
+### 🌱 Currently Exploring  
+- Advanced DevSecOps & supply chain security  
+- Scalable build systems & monorepo optimization  
+- High-performance log aggregation & query systems  
+
+---
+
+### 🤝 Open To Collaborate On  
+- Platform Engineering Projects  
+- Observability Systems  
+- Performance Optimization Problems  
+- Security & DevSecOps Initiatives  
+
+---
+
+### 📫 Connect With Me  
+<p align="left">
+  <a href="https://twitter.com/mr_bhandari16">
+    <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sb5/">
+    <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  </a>
+  <a href="https://github.com/sourabhbhandari">
+    <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+  </a>
+  <a href="https://instagram.com/mr_bhandari16/">
+    <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhbhandari&show_icons=true&theme=default&line_height=27"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbhandari&layout=compact"/>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+I debug distributed systems by day and listen to music non-stop 🎧  
+
+---
 
 <div align="center">
 
-### Made with ❤️ and Code </>
+### Built with ⚙️ + ☕ + 🎧  
 
 </div>
